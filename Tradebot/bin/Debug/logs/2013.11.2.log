@@ -1,0 +1,35 @@
+[04:35:27] Console initialized...
+[04:35:27] -----------------------------------------
+[04:35:27] Steam Trading Bot
+[04:35:27] Created By Azarus - azarus@gmail.com - v1.0 2013
+[04:35:27] -----------------------------------------
+[04:35:27] Loading plugins.
+[04:35:27] TestPlugin v1.0 loaded successfully.
+[04:35:27] Plugin.dll
+[04:35:27] [WARNING] 'mods\Plugin.pdb' is not a .dll file
+[04:36:11] Console initialized...
+[04:36:11] -----------------------------------------
+[04:36:11] Steam Trading Bot
+[04:36:11] Created By Azarus - azarus@gmail.com - v1.0 2013
+[04:36:11] -----------------------------------------
+[04:36:11] Loading plugins.
+[04:36:11] TestPlugin v1.0 loaded successfully.
+[04:36:11] Plugin
+[04:36:11] [WARNING] 'mods\Plugin.pdb' is not a .dll file
+[04:36:32] Console initialized...
+[04:36:32] -----------------------------------------
+[04:36:32] Steam Trading Bot
+[04:36:32] Created By Azarus - azarus@gmail.com - v1.0 2013
+[04:36:32] -----------------------------------------
+[04:36:32] Loading plugins.
+[04:36:32] TestPlugin v1.0 loaded successfully.
+[04:36:32] [WARNING] 'mods\Plugin.pdb' is not a .dll file
+[23:40:17] Console initialized...
+[23:40:17] -----------------------------------------
+[23:40:17] Steam Trading Bot
+[23:40:17] Created By Azarus - azarus@gmail.com - v1.0 2013
+[23:40:17] -----------------------------------------
+[23:40:17] Loading plugins.
+[23:40:17] TestPlugin v1.0 loaded successfully.
+[23:40:17] [WARNING] 'mods\Plugin.pdb' is not a .dll file
+[23:40:17] [ERROR] Unable to read file 'settings.cfg'.

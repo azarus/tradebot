@@ -1,0 +1,8 @@
+C:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\bin\Debug\Library.dll
+C:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\bin\Debug\Library.pdb
+C:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\obj\Debug\Library.dll
+C:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\obj\Debug\Library.pdb
+c:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\bin\Debug\mysql.data.dll
+c:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\bin\Debug\mysql.data.entity.dll
+c:\Users\Denes\Documents\Visual Studio 2012\Projects\Tradebot\Library\bin\Debug\mysql.web.dll
